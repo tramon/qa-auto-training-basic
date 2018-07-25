@@ -1,0 +1,15 @@
+# IDEA specified files
+.idea
+*.iml
+*.ipr
+*.iws
+# target folder
+My_Tests.story
+target
+debug.log
+pom_up.xml
+src/test/resources/testData/mri/submitPostBack.html
+src/test/resources/testData/mri/viewPostBack.html
+drivers/osx/chromedriver
+drivers/windows/chromedriver.exe
+drivers/linux/64bit/chromedriver
